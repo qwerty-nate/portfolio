@@ -1,3 +1,3 @@
-Repository for my website hosted by Vercel.
+Portfolio website hosted at Vercel.
 
 https://ncw-dev.vercel.app
